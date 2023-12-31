@@ -39,4 +39,5 @@ class Solution {
         return minDifficulties[days - 1][length - 1];
     }
 }
+//Java 
 
